@@ -4,10 +4,10 @@ import tweepy
 import time
 import random
 
-api_key = "bIr0KfGn3IAPVPfwYNuLgEmN6"
-api_secret = "V7mTHkkknzvV9EJMV6dqbr0muP3NYuUj3xCp1rkyte8on2dRYT"
-access_token = "900189589603790850-XkZDnogPjQQ4z2tv9vn5wyT2bsrFgJ6"
-access_token_secret = "NrqRdAfam9w8ZDjw2HSOezWa1dC48CYzDJ6hTpRU0lZh7"
+api_key = ""
+api_secret = ""
+access_token = ""
+access_token_secret = ""
 
 def setInterval(func, time):
     e = threading.Event()
